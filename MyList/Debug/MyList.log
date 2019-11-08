@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\projects\mylist\main.cpp(185): warning C4715: List<int>::operator[]: значение возвращается не при всех путях выполнения
+  MyList.vcxproj -> D:\Projects\MyList\Debug\MyList.exe
